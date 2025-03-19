@@ -9,6 +9,10 @@ Skyline (you probably already have this if you have the TMP)
 [Smashline 2](https://github.com/HDR-Development/smashline/releases/latest)
 [NRO Hook](https://github.com/ultimate-research/nro-hook-plugin/releases/latest)
 
+## Installation 
+
+place this in your mods folder like a skin mod or a stage mod. You should have a path "ultimate/mods/KumiteTraining/plugin.nro" or something similar 
+
 ## Wifi Safety Notice
 
 While this mode should only run code during Century Smash (not even during Allstar/Cruel), I recommend not booting up quickplay with this mod active JUST in case.
