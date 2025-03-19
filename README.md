@@ -1,6 +1,3 @@
-# WARNING
-There WILL be crashes. CPUs WILL be stupid. Icies will likely do something absurd. Good night and good luck.
-
 # Edgeguard Training
 
 Replaces 100-man / Century Smash with an Edgeguard Training Tool. Fight off randomly spawning enemies, one at a time. You'll earn a point (represented by the inactive first CPU's precent) if you can knock them off the stage, but if they get onto the stage, you won't gain a point!
