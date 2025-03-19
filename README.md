@@ -4,10 +4,10 @@ Replaces 100-man / Century Smash with an Edgeguard Training Tool. Fight off rand
 There's currently a 6 frame leniancy for when the CPU is considered "on stage" (via climbing from a ledge, landing, or etc), so use those frames to your advantage.
 
 ## Required Plugins
-Arcropolis
-Skyline
-(Smashline 2)[https://github.com/HDR-Development/smashline/releases/latest]
-(NRO Hook)[https://github.com/ultimate-research/nro-hook-plugin/releases/latest]
+Arcropolis (you probably already have this)
+Skyline (you probably already have this if you have the TMP)
+[Smashline 2](https://github.com/HDR-Development/smashline/releases/latest)
+[NRO Hook](https://github.com/ultimate-research/nro-hook-plugin/releases/latest)
 
 ## Wifi Safety Notice
 
