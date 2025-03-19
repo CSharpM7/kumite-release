@@ -8,3 +8,8 @@ Arcropolis
 Skyline
 (Smashline 2)[https://github.com/HDR-Development/smashline/releases/latest]
 (NRO Hook)[https://github.com/ultimate-research/nro-hook-plugin/releases/latest]
+
+## Wifi Safety Notice
+
+While this mode should only run code during Century Smash (not even during Allstar/Cruel), I recommend not booting up quickplay with this mod active JUST in case.
+I also have no idea how GSP will factor in to this, but you won't be able to defeat all 100 enemies to get a clear time, and this mode should be a lot slower than normal Century Smash is...
