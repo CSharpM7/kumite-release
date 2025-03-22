@@ -1,3 +1,7 @@
+# Release Moved To New Spot
+
+[Click here for new release](https://gamebanana.com/mods/583029)
+
 # Edgeguard Training
 
 Replaces 100-man / Century Smash with an Edgeguard Training Tool. Fight off randomly spawning enemies, one at a time. You'll earn a point (represented by the inactive first CPU's precent) if you can knock them off the stage, but if they get onto the stage, you won't gain a point!
